@@ -1,0 +1,23 @@
+.coupon-info,
+.subscribe-info {
+  display: inline-block;
+  width: 50%;
+  vertical-align: top;
+  padding: 1.5rem;
+}
+
+.coupon-info {
+  padding-top: 4rem;
+}
+.coupon-info > h2,
+.coupon-info > img {
+  display: inline-block;
+}
+.coupon-info > h2 {
+  vertical-align: top;
+  padding-left: 1rem;
+}
+
+.coupon-info > p {
+  width: 60%;
+}
